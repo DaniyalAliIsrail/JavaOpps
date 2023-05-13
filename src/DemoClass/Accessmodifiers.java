@@ -31,14 +31,6 @@ public class Accessmodifiers {
 	// jhon.id =34;        --> this line are error through because method are private  
 	// jhon.name = "dani";  --> this line are error through because method are private 
 	
-	// set value:
-	
-	
-	
-	
-	
-	
-	
 	
 	}	
 }
